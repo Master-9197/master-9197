@@ -10,7 +10,7 @@ Passionate about clean code, solving problems, building tools and automate every
 - 📫 Reach me: **[Telegram](https://t.me/antonlobanoff35)**
 - 💜 Fun fact: **I love purple and my cats**
 
-Technologies:
+## Technologies:
 - Python
 - PostgreSQL
 - FastAPI
