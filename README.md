@@ -9,6 +9,15 @@ Passionate about clean code, solving problems, building tools and automate every
 - 💬 Ask me about **Python Developing / Telegram bots**
 - 📫 Reach me: **[Telegram](https://t.me/antonlobanoff35)**
 - 💜 Fun fact: **I love purple and my cats**
+
+Technologies:
+- Python
+- PostgreSQL
+- FastAPI
+- AIOgram
+- Docker
+- Linux
+
 <!--
 **Master-9197/master-9197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
